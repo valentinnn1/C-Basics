@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644920198 source:c:\users\valen\desktop\ПИК2\Лабораторни\У2\asciiletters\main.c
+	<stdio.h>
+	<stdlib.h>
+
