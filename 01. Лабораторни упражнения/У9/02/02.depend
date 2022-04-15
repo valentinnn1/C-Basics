@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649783262 source:c:\users\valentin\documents\github\c-basics\01. Лабораторни упражнения\У9\02\main.c
+	<stdio.h>
+	<stdlib.h>
+
